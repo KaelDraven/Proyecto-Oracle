@@ -6,3 +6,4 @@
 aqui vas a describir que es Scrum
 etc...
 ![esta es una imagen](http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/oracle-logo.png)
+
