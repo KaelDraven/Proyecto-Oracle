@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : 4/03/2017, 09:38:58 AM
-    Author     : T-102
+    Author     : Alejandro Manrique
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
