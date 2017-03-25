@@ -14,9 +14,7 @@ public class ServletAutenticar extends HttpServlet {
     //siempre y cuando tengas la ip de la maquina
     public void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
-        response.setContentType("application/vnd.ms-excel");
-       PrintWriter salida=  response.getWriter();
-       salida.println("alejandro ");
+              
     }
 }
     
